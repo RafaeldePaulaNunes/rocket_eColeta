@@ -1,0 +1,59 @@
+Rodar aplicação backend:
+------------------------
+entrar em rocket/server
+npm run dev
+
+
+Rodar aplicação frontend:
+-------------------------
+entrar em rocket/web
+npm start
+
+
+Rodar aplicação mobile:
+-----------------------
+entrar em rocket/mobile
+npm start
+
+
+para gerar o apk criei uma conta no expo
+----------------------------------------
+rafaelpaulanunes@gmail.com
+rafaelnunes
+tha2Bei
+
+Os comandos são:
+----------------
+expo build:android
+expo build:status
+
+
+Desafio
+-------
+Dever de casa: pegar city e uf do IBGE e usar componente www.npmjs.com   react-native-picker-select
+Colocar banco de dados no Postgres
+
+
+Github do proejto
+-----------------              
+https://github.com/Rocketseat/nlw-01-booster
+
+
+Especificação do Projeto
+------------------------
+https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta
+
+
+Links importantes para devs
+---------------------------              
+https://github.com/OfficialMarinho/Links-uteis/blob/master/LINKS.md
+              
+
+Componentes para validação de interface
+---------------------------------------
+backend:  https://github.com/arb/celebrate  (recomendado pra que usa express, que é meu caso)
+dica do celebrate: as vezes precisa depois de "npm install celebrate" rodar tb "npm install @types/hapi__joi -D"
+backend:  https://github.com/hapijs/joi
+frontend: https://github.com/jquense/yup
+
+
